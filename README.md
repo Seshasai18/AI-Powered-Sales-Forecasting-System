@@ -111,11 +111,5 @@ This dataset can be used for:
 
 ---
 
-## 🔗 Project Links
-- GitHub Repo: (Add your repo link here)
-- LinkedIn: (Add your profile link here)
-
----
-
 ## 📢 Conclusion
 This project demonstrates how SQL can be effectively used for data analysis and preparing datasets for AI applications. It highlights the importance of data processing before applying machine learning models.
