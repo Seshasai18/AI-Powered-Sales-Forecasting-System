@@ -1,4 +1,3 @@
-# AI-Powered-Sales-Forecasting-System
 # AI-Powered Sales Forecasting System
 
 ## 📌 Project Overview
